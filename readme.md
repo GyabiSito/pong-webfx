@@ -1,5 +1,7 @@
 # Pong WebFX
 
+[Jugá acá!](https://pong.gyabisito.dev/)
+
 Versión web del juego **Pong**, implementado en Java y compilado a JavaScript mediante **WebFX + TeaVM**.
 
 El objetivo del proyecto es portar un Pong hecho originalmente con JavaFX a una versión ejecutable en navegador, manteniendo la mayor parte posible de la lógica de juego en Java.
