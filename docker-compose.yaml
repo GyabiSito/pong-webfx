@@ -1,0 +1,13 @@
+services:
+  pong-webfx:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: pong_webfx
+    restart: unless-stopped
+    networks:
+      - public
+
+networks:
+  public:
+    external: true
