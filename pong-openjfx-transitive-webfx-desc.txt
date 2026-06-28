@@ -1,0 +1,1 @@
+webfx-kit-javafxgraphics-openjfx:jar:file:///C:/Users/Josec/.m2/repository/dev/webfx/webfx-kit-javafxgraphics-openjfx/0.1.0-SNAPSHOT/webfx-kit-javafxgraphics-openjfx-0.1.0-SNAPSHOT-sources.jar!/META-INF/webfx
